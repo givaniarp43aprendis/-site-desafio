@@ -1,2 +1,2 @@
 #  site desafio
-desafio do curso em vide
+desafio do curso em video.
